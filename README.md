@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FloresCrimson
-- 👀 I’m interested in Blockchain Games
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in Blockchain Games & DeFi
+- 🌱 Keep building everyday
 - 💞️ I’m looking to collaborate on Project/Community Blockchain.
 - 📫 How to reach me Telegram: @Florescrimson
 
