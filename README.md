@@ -114,8 +114,6 @@ With 4+ years in the blockchain ecosystem, I've helped projects grow from zero t
 
 *"Building bridges between communities, ecosystems, and opportunities across Southeast Asia."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
 </div>
 <!---
 FloresCrimson/FloresCrimson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
